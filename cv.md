@@ -3,8 +3,9 @@
 **Contacts:** 
   - Telephone: +375298907569  
   - E-mail: nikolas_23@tut.by  
-  - Skype: nikolas_krigard
-**Skills:**Javascript, HTML5, CSS3, Git, Microsoft Office  
+  - Skype: nikolas_krigard  
+
+**Skills:** Javascript, HTML5, CSS3, Git, Microsoft Office  
 **Code Examples:**
 ```javascript
 function warmup(temperature) {
